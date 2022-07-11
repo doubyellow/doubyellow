@@ -1,0 +1,9 @@
+list_supplier_financing:
+  #  current, size, supplierName, except_status, except_msg, except_code, except_success
+  #  当前第几页，当前页的数据容量，供应商名称，预期状态，预期返回信息，预期返回状态码，预期成功状态
+  - [ 1,  "10","合肥海尔电器有限公司" , 0, "处理成功","10000", True ]
+  - [ 1,  "10","合肥海尔电器有限公司" , 0, "处理成功","10000", True ]
+  - [ 1,  "10","合肥海" , 0 , "处理成功", "10000", True ]
+
+
+

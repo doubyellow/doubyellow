@@ -1,0 +1,1 @@
+http://172.1.2.107/api/app/v1/fct/ledger/listSupplierFinancing
